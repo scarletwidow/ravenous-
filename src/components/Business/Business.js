@@ -1,5 +1,5 @@
 import React from 'react';
-import './Business.css'
+import './Business.css';
 
 
 const business = {

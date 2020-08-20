@@ -24,12 +24,12 @@ class SearchBar extends React.Component {
                         {this.renderSortByOptions()}
                     </ul>
                 </div>
-                <div className="SearchBar-feields">
+                <div className="SearchBar-fields">
                     <input placeholder="Search Businesses" />
                     <input placeholder="Where?"/>
                 </div>
                 <div className="SearchBar-submit">
-                    <button>Let's Go</button>
+                    <a href="#">Let's Go</a>
                 </div>
             </div>
         );
